@@ -1,0 +1,1 @@
+30 7 * * * (cd $HOME/github.com/fedex1/zohranfornyc-mirror  && . $HOME/.profile && bash -x ./runall.sh) > $HOME/tmp/./zohranfornyc-mirror-runall.sh.out.txt 2>&1
