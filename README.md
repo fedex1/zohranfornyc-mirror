@@ -11,3 +11,5 @@ https://html-preview.github.io/?url=https://raw.githubusercontent.com/fedex1/zoh
 # Platform
 ## See current
 https://html-preview.github.io/?url=https://raw.githubusercontent.com/fedex1/zohranfornyc-mirror/refs/heads/main/www.zohranfornyc.com/platform
+## Commit history
+https://github.com/fedex1/zohranfornyc-mirror/commits/main/www.zohranfornyc.com/platform
